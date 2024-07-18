@@ -1,4 +1,4 @@
-using using CourseAPI.Dtos;
+using CourseAPI.Dtos;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
